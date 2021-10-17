@@ -32,6 +32,11 @@ Reequirements : The modules used in this project are given below :
                4) numpy
                
                5) pandas
+               
+               
+               
+ The idea for this project is inspired from " Murtaza's Workshop's " Youtube video named "AI Virtual Keyboard using OpenCV " .               
+               
 
 
 
