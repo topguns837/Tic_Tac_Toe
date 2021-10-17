@@ -35,7 +35,9 @@ Reequirements : The modules used in this project are given below :
                
                
                
- The idea for this project is inspired from " Murtaza's Workshop's " Youtube video named "AI Virtual Keyboard using OpenCV " .               
+ The idea for this project is inspired from " Murtaza's Workshop's " Youtube video named "AI Virtual Keyboard using OpenCV " .   
+ 
+ For output of the code : https://youtu.be/hDo4jGnHlKE
                
 
 
